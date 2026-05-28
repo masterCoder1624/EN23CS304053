@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InsightHub - AI-Powered Feedback Analytics Platform
 
 <div align="center">
@@ -354,3 +355,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 **Version 2.0.0** | Last Updated: April 2026
 
 </div>
+=======
+# EN23CS304053
+>>>>>>> 3a671b57fe5572830e7215dd8f46439ce5ae8b8a
